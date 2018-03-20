@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">CountryContentProvider</string>
+    <string name="read_permission_label">Lecture de pays</string>
+    <string name="read_permission_description">L\'accès à la liste de pays nécessite une autorisation. Il n\'y a aucun risque.</string>
+</resources>
